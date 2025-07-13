@@ -1,0 +1,231 @@
+filename,instrument,set
+"data/train/violin_solo_train_MOZART VIOLIN CONCERTO No. 3, A VERY FINE, ANTIQUE AMERICAN VIOLIN, SOLO SOUND SAMPLE.wav",violin,train
+data/train/violin_solo_train_Violino Solo - Eine Kleine Nachtmusik.wav,violin,train
+data/train/violin_solo_train_mozart symphony no 40 violin.wav,violin,train
+"data/train/violin_solo_train_Kreisler cadenza for Beethoven violin concerto, 3rd mvt 1716 Stradivari ex-Milstein .wav",violin,train
+"data/train/violin_solo_train_Mozart 39, II. beg.-38.wav",violin,train
+data/train/violin_solo_train_MOZART - Queen of the Night - Magic Flute - violin solo.wav,violin,train
+data/train/violin_solo_train_fur elise violin.wav,violin,train
+data/train/violin_solo_train_Mozart The Magic Flute - Pamina_s Aria for solo violin.wav,violin,train
+data/train/violin_solo_train_Haydn Surprise Symphony - Andante for solo violin.wav,violin,train
+data/train/violin_solo_train_Mozart The Magic Flute - Queen of the Night Aria for solo violin (recital ver.).wav,violin,train
+data/train/violin_solo_train_Mozart - Eine Kleine Nachtmusik Mvt 1 - William Yun Violin.wav,violin,train
+data/train/violin_solo_train_Beethoven Romance No. 1 in G Major for solo violin.wav,violin,train
+"data/train/violin_solo_train_Mozart Violin Concerto No. 5, Exposition.wav",violin,train
+data/train/violin_solo_train_Mozart Violin Concerto No. 5 Cadenza.wav,violin,train
+data/test/violin_solo_test_SERENADE - by Franz Schubert - Classical Violin Lessons Online by Paul Huppert.wav,violin,test
+"data/test/violin_solo_test_Mozart, Alla Turca Violin.wav",violin,test
+data/test/violin_solo_test_Mozart Turkish March for solo violin.wav,violin,test
+data/test/violin_solo_test_Mozart The Magic Flute - Duet Pa Pa Pa for solo violin.wav,violin,test
+"data/test/violin_solo_test_Ave María, F. Schubert (Violín solo).wav",violin,test
+data/test/violin_solo_test_W.A.Mozart-Eine kleine Nachtmusik [Violin Solo].wav,violin,test
+data/train/viola_solo_train_Campagnoli Caprice #28 for Solo Viola.wav,viola,train
+data/train/viola_solo_train_Campagnoli Caprice #38 for Solo Viola.wav,viola,train
+data/train/viola_solo_train_Campagnoli Caprice #35 for Solo Viola.wav,viola,train
+data/train/viola_solo_train_Campagnoli Caprice #6 for Solo Viola.wav,viola,train
+data/train/viola_solo_train_Campagnoli Caprice #15 for Solo Viola.wav,viola,train
+data/train/viola_solo_train_Campagnoli Caprice #5 for Solo Viola.wav,viola,train
+data/train/viola_solo_train_Mozart Symphony No35 Viola excerpt.wav,viola,train
+"data/train/viola_solo_train_Eine Kleine Nachtmusik, Viola.wav",viola,train
+data/train/viola_solo_train_Campagnoli Caprice #1 for Solo Viola.wav,viola,train
+data/train/viola_solo_train_Campagnoli Caprice #41 for Solo Viola.wav,viola,train
+data/train/viola_solo_train_Campagnoli Caprice #31 for Solo Viola.wav,viola,train
+data/train/viola_solo_train_Campagnoli Caprice #9 for Solo Viola.wav,viola,train
+data/train/viola_solo_train_Campagnoli Caprice #17 for solo viola.wav,viola,train
+data/train/viola_solo_train_Campagnoli Caprice #24 for Solo Viola.wav,viola,train
+data/test/viola_solo_test_Suzuki Viola Book 2 Beethoven Minuet in G.wav,viola,test
+data/test/viola_solo_test_Mozart - Adagio and Rondo - #5 from Suzuki Viola Book 6.wav,viola,test
+data/test/viola_solo_test_Viola Haydn Divertimento 3rd Movement.wav,viola,test
+data/test/viola_solo_test_Campagnoli Caprice # 2 for Solo Viola.wav,viola,test
+data/test/viola_solo_test_Campagnoli Caprice #4 for Solo Viola.wav,viola,test
+data/test/viola_solo_test_Minuet in D Mozart Suzuki Viola Book 3.wav,viola,test
+"data/train/violin_solo_train_Hilary Hahn - J.S. Bach Partita for Violin Solo No. 1 in B Minor, BWV 1002 - 4. Doubl....wav",violin,train
+data/train/violin_solo_train_Partita No 1 in B Minor BWV 1002 VI Double.wav,violin,train
+data/train/violin_solo_train_Fantasia in B-flat major.wav,violin,train
+data/train/violin_solo_train_Partita No 3 in E Major BWV 1006 I Preludio.wav,violin,train
+data/train/violin_solo_train_Sonata No 3 in C Major BWV 1005 III Largo.wav,violin,train
+data/train/violin_solo_train_Fantasia in E-flat major.wav,violin,train
+data/train/violin_solo_train_Fantasia in F major.wav,violin,train
+data/train/violin_solo_train_Partita No. 1 in B Minor BWV 1002 II Double.wav,violin,train
+data/train/violin_solo_train_Fantasia in D major II.wav,violin,train
+"data/train/violin_solo_train_GEMINIANI Jonian Ilias Kadesha Instrumentalstück in c major, for solo violin.wav",violin,train
+data/train/violin_solo_train_Partita No 2 in D MinorBWV 1004 I Allemanda.wav,violin,train
+data/train/violin_solo_train_Sonata No 2 in A Minor BWV 1003 II Fuga.wav,violin,train
+data/train/violin_solo_train_Fantasia in A major.wav,violin,train
+data/train/violin_solo_train_Sonata No 2 in A Minor BWV 1003 III Andante.wav,violin,train
+data/train/violin_solo_train_Sonata No 3 in C Major BWV 1005 II Fuga.wav,violin,train
+data/train/violin_solo_train_Partita No. 1 in B Minor BWV 1002 III Corrente.wav,violin,train
+data/train/violin_solo_train_Fantasia in G major.wav,violin,train
+data/train/violin_solo_train_Partita No 3 in E Major BWV 1006 VI Gigue.wav,violin,train
+data/train/violin_solo_train_Pachelbel Canon - Stringspace - Solo Violin.wav,violin,train
+data/train/violin_solo_train_Partita No 3 in E Major BWV 1006 III Gavotte en Rondeau.wav,violin,train
+data/train/violin_solo_train_Partita No 3 in E Major BWV 1006 IV Menuet I II.wav,violin,train
+data/train/violin_solo_train_Fantasia in E minor.wav,violin,train
+"data/train/violin_solo_train_Jean-Baptiste Poyard - Telemann, violin fantasia n°1.wav",violin,train
+data/train/violin_solo_train_Fantasia in D major.wav,violin,train
+data/train/violin_solo_train_Sonata No 2 in A Minor BWV 1003 I Grave.wav,violin,train
+data/train/violin_solo_train_Sonata No 1 in G Minor BWV 1001 I Adagio.wav,violin,train
+"data/train/violin_solo_train_Hilary Hahn - J.S. Bach Sonata for Violin Solo No. 1 in G Minor, BWV 1001 - 4. Presto.wav",violin,train
+data/train/violin_solo_train_Partita No 2 in D Minor BWV 1004 IV Giga.wav,violin,train
+data/train/violin_solo_train_Johann Paul von Westhoff - Violin Sonata No. 3 (Imitazione delle Campane).wav,violin,train
+data/train/violin_solo_train_Sonata No 1 in G Minor BWV 1001 III Siciliana.wav,violin,train
+data/train/violin_solo_train_Fantasia in B minor.wav,violin,train
+data/train/violin_solo_train_Vivaldi Summer Movement 3. Presto (with violin solo).wav,violin,train
+data/train/violin_solo_train_Sonata No 2 in A Minor BWV 1003 IV Allegro.wav,violin,train
+data/train/violin_solo_train_Sonata No 3 in C Major BWV 1005 I Adagio.wav,violin,train
+data/train/violin_solo_train_Partita No 2 in D Minor BWV 1004 III Sarabanda.wav,violin,train
+data/test/violin_solo_test_Fantasia in A minor.wav,violin,test
+data/test/violin_solo_test_Partita No 1 in B Minor BWV 1002 VIII Double.wav,violin,test
+data/test/violin_solo_test_Partita No 1 in B Minor BWV 1002 VII Tempo di borea.wav,violin,test
+data/test/violin_solo_test_Partita No 1 in B Minor BWV 1002 IV Double Presto.wav,violin,test
+data/test/violin_solo_test_Fantasia in F minor.wav,violin,test
+data/test/violin_solo_test_Sonata No. 1 in G Minor BWV 1001 II Fuga Allegro.wav,violin,test
+data/test/violin_solo_test_Partita No 2 in D Minor BWV 1004 II Corrente.wav,violin,test
+data/test/violin_solo_test_Sonata No 3 in C Major BWV 1005 IV Allegro assai.wav,violin,test
+data/test/violin_solo_test_Partita No 3 in E Major BWV 1006 V Bourée.wav,violin,test
+data/test/violin_solo_test_Partita No 2 in D Minor BWV 1004 V Ciaccona.wav,violin,test
+data/test/violin_solo_test_Sonata No 1 in G Minor BWV 1001 IV Presto.wav,violin,test
+data/test/violin_solo_test_Partita No. 1 in B Minor BWV 1002 I Allemanda.wav,violin,test
+data/test/violin_solo_test_Fantasia in E major.wav,violin,test
+data/test/violin_solo_test_Partita No 1 in B Minor BWV 1002 V Sarabande.wav,violin,test
+data/test/violin_solo_test_Partita No 3 in E Major BWV 1006 II Loure.wav,violin,test
+data/train/violin_solo_train_10 Preludes No. 7. Sevenths.wav,violin,train
+data/train/violin_solo_train_10 Preludes No. 2. Seconds.wav,violin,train
+data/train/violin_solo_train_10 Preludes No. 9. Ninths.wav,violin,train
+data/train/violin_solo_train_Sonata for Violin solo op 31 No 2 I Leicht bewegte Viertel.wav,violin,train
+data/train/violin_solo_train_Sonata for Violin solo op 31 No 2 III Gemächliche Viertel.wav,violin,train
+data/train/violin_solo_train_10 Preludes No. 3. Thirds.wav,violin,train
+data/train/violin_solo_train_Sonata for Violin solo op 31 No 2 IV Variationen über das Lied _Komm lieber Mai_.wav,violin,train
+data/train/violin_solo_train_10 Preludes No. 10. Tenths.wav,violin,train
+data/train/violin_solo_train_10 Preludes No. 8. Octaves.wav,violin,train
+data/train/violin_solo_train_10 Preludes No. 4. Fourths.wav,violin,train
+data/train/violin_solo_train_10 Preludes No. 6. Sixths.wav,violin,train
+data/train/violin_solo_train_10 Preludes No. 5. Fifths.wav,violin,train
+data/train/violin_solo_train_10 Preludes No. 1. Unisons.wav,violin,train
+data/train/violin_solo_train_Sonata for Violin solo op31 No 2 II Ruhig bewegte Achtel.wav,violin,train
+"data/test/violin_solo_test_B.A. Zimmerman Sonata for violin solo Wibert Aerts, violin.wav",violin,test
+"data/test/violin_solo_test_Maxim Vengerov - Eugene Ysaye - Sonata No 3 in D minor, Ballade Op. 27.wav",violin,test
+data/test/violin_solo_test_Sonata for solo violin Op 31 No 1 V Prestissimo.wav,violin,test
+"data/test/violin_solo_test_Eugène Ysaÿe - Sonata No. 5 for Violin, Op. 27 (1923) [Score-Video].wav",violin,test
+data/test/violin_solo_test_Ray Chen Ysaye Solo Sonata No 6 Queen Elisabeth Violin Competition 2009.wav,violin,test
+data/test/violin_solo_test_Sonata for solo violin Op 31 No 1 II Sehr langsame Achtel.wav,violin,test
+data/train/viola_solo_train_Hindemith - Sonata for Solo Viola Op 11 No 5 I Lebhaft aber nicht geeilt.wav,viola,train
+data/train/viola_solo_train_Sonate fur Bratsche Solo op 25 No 1 Mov III Sehr langsam.wav,viola,train
+data/train/viola_solo_train_Paul Hindemith - Sonata for Solo Viola Op 31 No 4 Movement Two Lied Ruhig mit wenig Ausdruck Langsame Viertel.wav,viola,train
+data/train/viola_solo_train_Hindemith - Sonata for Solo Viola Op 11 No 5 III Scherzo Schnell .wav,viola,train
+data/train/viola_solo_train_Sonate fur Bratsche Solo op 25 No 1 Mov V Langsam mit viel Ausdruck.wav,viola,train
+data/train/viola_solo_train_Sonate fur Bratsche Solo op 25 No 1 Mov I Breit Viertel .wav,viola,train
+data/train/viola_solo_train_Sonate fur Bratsche Solo op 25 No 1 Mov IV Rasendes Zeitmaß Wild Tonschönheit ist Nebensache.wav,viola,train
+data/train/viola_solo_train_Paul Neubauer viola - Wild Purple for Viola by Joan Tower.wav,viola,train
+data/train/viola_solo_train_Sonata for Solo Viola I. Hora lunga.wav,viola,train
+data/train/viola_solo_train_Paul Hindemith - Sonata for Solo Viola Op 31 No. 4 Movement One Äußerst lebhaft .wav,viola,train
+data/train/viola_solo_train_Hindemith - Sonata for Solo Viola Op 11 No 5 II Mäßig schnell mit viel Wärme vortragen.wav,viola,train
+data/train/viola_solo_train_Max Reger - Suite No. 1 in G minor for Solo Viola (Tabea Zimmermann - Viola).wav,viola,train
+data/train/viola_solo_train_Sonate fur Bratsche Solo op 25 No 1 Mov II Sehr frisch und straff (Viertel).wav,viola,train
+data/train/viola_solo_train_Paul Hindemith - Sonata for Solo Viola Op 31 No 4 Movement Three Thema mit Variationen Schnelle Viertel (ma maestoso).wav,viola,train
+data/test/viola_solo_test_Johan Helmich Roman Assaggio IV Grave for Viola Solo.wav,viola,test
+data/test/viola_solo_test_Pentatonic Étude for solo viola.wav,viola,test
+data/test/viola_solo_test_Igor Stravinsky - Elegy for solo viola.wav,viola,test
+"data/test/viola_solo_test_Alan Hovhaness - Chahagir, for viola solo.wav",viola,test
+data/test/viola_solo_test_Malaguena - Marco Misciagna (viola solo).wav,viola,test
+data/test/viola_solo_test_Paul Neubauer viola - Simply Purple for Viola.wav,viola,test
+"data/train/violin_solo_train_Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 9 (Sheet Music).wav",violin,train
+data/train/violin_solo_train_Kayser Violin Etudes No. 5 카이저 바이올린 에튀드 5번 @보찬TV.wav,violin,train
+"data/train/violin_solo_train_Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 8 (Sheet Music).wav",violin,train
+data/train/violin_solo_train_Kayser Violin Etudes No. 4 카이저 바이올린 에튀드 4번 @보찬TV.wav,violin,train
+data/train/violin_solo_train_Kayser Violin Etudes No. 6 카이저 바이올린 에튀드 6번 해설포함 @보찬TV.wav,violin,train
+data/train/violin_solo_train_N. Paganini Caprice no. 5 Sumina Studer.wav,violin,train
+data/train/violin_solo_train_Kayser Violin Etudes No. 1 카이저 바이올린 에튀드 1번 @보찬TV.wav,violin,train
+data/train/violin_solo_train_Heinrich Wilhelm Ernst Study N°6 Die letzte Rose .wav,violin,train
+data/train/violin_solo_train_Paganini Caprice no.23 [HQ].wav,violin,train
+data/train/violin_solo_train_Paganini Caprice no.16 [HQ].wav,violin,train
+data/train/violin_solo_train_Ernst Etude no.2 Allegretto Con Grazia Ruggiero Ricci.wav,violin,train
+"data/train/violin_solo_train_Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 21 (Sheet Music).wav",violin,train
+"data/train/violin_solo_train_Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 3 (Sheet Music).wav",violin,train
+data/train/violin_solo_train_Kayser Violin Etudes No. 2 카이저 바이올린 에튀드 2번 @보찬TV.wav,violin,train
+"data/train/violin_solo_train_Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 15 (Sheet Music).wav",violin,train
+"data/train/violin_solo_train_Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 6 (Sheet Music).wav",violin,train
+"data/train/violin_solo_train_Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 10 (Sheet Music).wav",violin,train
+"data/train/violin_solo_train_Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 2 (Sheet Music).wav",violin,train
+"data/train/violin_solo_train_Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 20 (Sheet Music).wav",violin,train
+"data/train/violin_solo_train_Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 14 (Sheet Music).wav",violin,train
+data/train/violin_solo_train_Kayser Violin Etudes No. 3 카이저 바이올린 에튀드 3번 @보찬TV.wav,violin,train
+"data/train/violin_solo_train_Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 7 (Sheet Music).wav",violin,train
+"data/train/violin_solo_train_Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 11 (Sheet Music).wav",violin,train
+"data/train/violin_solo_train_Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 23 (Sheet Music).wav",violin,train
+"data/train/violin_solo_train_Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 1 (Sheet Music).wav",violin,train
+"data/train/violin_solo_train_Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 4 (Sheet Music).wav",violin,train
+"data/train/violin_solo_train_Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 12 (Sheet Music).wav",violin,train
+data/train/violin_solo_train_Heinrich Wilhelm Ernst Study 3.wav,violin,train
+data/train/violin_solo_train_Heinrich Wilhelm Ernst Study 2.wav,violin,train
+data/train/violin_solo_train_Paganini Caprice no.1 [HQ].wav,violin,train
+data/train/violin_solo_train_Kayser Violin Etudes No. 7 카이저 바이올린 에튀드 7번 해설포함 @보찬TV.wav,violin,train
+"data/train/violin_solo_train_Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 16 (Sheet Music).wav",violin,train
+"data/train/violin_solo_train_Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 5 (Sheet Music).wav",violin,train
+data/train/violin_solo_train_Heinrich Wilhelm Ernst Study 1.wav,violin,train
+"data/train/violin_solo_train_Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 13 (Sheet Music).wav",violin,train
+data/test/violin_solo_test_Tchaikovsky Violin Concerto Solo Excerpt played on a Stradivari violin.wav,violin,test
+"data/test/violin_solo_test_36 Violin Studies, Op.20 (Kayser, Heinrich Ernst) No. 13 - Sun Kim.wav",violin,test
+"data/test/violin_solo_test_Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 18 (Sheet Music).wav",violin,test
+"data/test/violin_solo_test_Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 19 (Sheet Music).wav",violin,test
+data/test/violin_solo_test_Kayser Violin Etudes No. 9 카이저 바이올린 에튀드 9번 해설포함 @보찬TV.wav,violin,test
+"data/test/violin_solo_test_Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 24 (Sheet Music).wav",violin,test
+data/test/violin_solo_test_Heinrich Wilhelm Ernst Study 5.wav,violin,test
+data/test/violin_solo_test_Heinrich Wilhelm Ernst Study 4.wav,violin,test
+"data/test/violin_solo_test_Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 17 (Sheet Music).wav",violin,test
+data/test/violin_solo_test_Schubert Ernst -- Der Erlkonig for Solo Violin.wav,violin,test
+data/test/violin_solo_test_F. Chopin - Nocturne in C# minor [Violin Solo].wav,violin,test
+data/test/violin_solo_test_Kayser Violin Etudes No. 10 카이저 바이올린 에튀드 10번 @보찬TV.wav,violin,test
+data/test/violin_solo_test_Kayser Violin Etudes No. 8 카이저 바이올린 에튀드 8번 해설포함 @보찬TV.wav,violin,test
+"data/test/violin_solo_test_Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 22 (Sheet Music).wav",violin,test
+data/test/violin_solo_test_Heinrich Wilhelm Ernst - Der Erlkönig Grand Caprice op.26.wav,violin,test
+data/train/viola_solo_train_Caprice No. 10.wav,viola,train
+data/train/viola_solo_train_Caprice No. 11.wav,viola,train
+data/train/viola_solo_train_Caprice No. 13.wav,viola,train
+data/train/viola_solo_train_Caprice No. 16.wav,viola,train
+data/train/viola_solo_train_Caprice No. 17.wav,viola,train
+data/train/viola_solo_train_Caprice No. 9.wav,viola,train
+data/train/viola_solo_train_Caprice No. 15.wav,viola,train
+data/train/viola_solo_train_Caprice No. 14.wav,viola,train
+data/train/viola_solo_train_Caprice No. 8.wav,viola,train
+data/train/viola_solo_train_Paganini Caprice 3 for viola.wav,viola,train
+data/train/viola_solo_train_12 Etudes for Viola No. 2_ Menuettino.wav,viola,train
+data/train/viola_solo_train_Paganini Caprice 4 for viola.wav,viola,train
+data/train/viola_solo_train_12 Etudes for Viola No. 12_ Andante.wav,viola,train
+data/train/viola_solo_train_Paganini Caprice Op 1 No 20 Solo Viola Orginally for solo violin.wav,viola,train
+data/train/viola_solo_train_12 Etudes for Viola No. 1_ Allegro.wav,viola,train
+data/train/viola_solo_train_Paganini Caprice 1 for viola.wav,viola,train
+data/train/viola_solo_train_Paganini Caprice 10 for viola.wav,viola,train
+data/train/viola_solo_train_Paganini Caprice 2 for viola.wav,viola,train
+data/train/viola_solo_train_Paganini Caprice No.11 Viola version.wav,viola,train
+data/train/viola_solo_train_Paganini Caprice No. 5 arr. for Viola.wav,viola,train
+data/train/viola_solo_train_Caprice No. 5.wav,viola,train
+data/train/viola_solo_train_Caprice No. 19.wav,viola,train
+data/train/viola_solo_train_Caprice No. 18.wav,viola,train
+data/train/viola_solo_train_Caprice No. 24.wav,viola,train
+data/train/viola_solo_train_Caprice No. 4.wav,viola,train
+data/train/viola_solo_train_Caprice No. 6.wav,viola,train
+data/train/viola_solo_train_HENRI VIEUXTEMPS Capriccio for Solo Viola Hommage à Paganini .wav,viola,train
+data/train/viola_solo_train_Caprice No. 7.wav,viola,train
+data/train/viola_solo_train_Caprice No. 3.wav,viola,train
+data/train/viola_solo_train_Caprice No. 22.wav,viola,train
+data/train/viola_solo_train_Paganini Caprice 24 for viola.wav,viola,train
+data/train/viola_solo_train_Caprice No. 2.wav,viola,train
+data/train/viola_solo_train_Caprice No. 20.wav,viola,train
+data/train/viola_solo_train_Caprice No. 21.wav,viola,train
+data/train/viola_solo_train_Caprice No. 1.wav,viola,train
+data/test/viola_solo_test_12 Etudes for Viola No. 7_ Vivace.wav,viola,test
+data/test/viola_solo_test_Caprice No. 12.wav,viola,test
+data/test/viola_solo_test_12 Etudes for Viola No. 8_ Allegro.wav,viola,test
+data/test/viola_solo_test_12 Etudes for Viola No. 11_ Allegro moderato.wav,viola,test
+"data/test/viola_solo_test_6 Morceaux, suivis d_un capriccio, Op. 61, Capriccio for solo viola Capriccio in C Minor.wav",viola,test
+data/test/viola_solo_test_12 Etudes for Viola No. 9_ Cantabile.wav,viola,test
+"data/test/viola_solo_test_Vieuxtemps Capriccio in C minor, Op 61, for viola solo Lars Anders Tomter.wav",viola,test
+"data/test/viola_solo_test_Vieuxtemps, Henry Capriccio _Hommage à Paganin_, Op.55 in C minor.wav",viola,test
+data/test/viola_solo_test_12 Etudes for Viola No. 5_ Tema con Variazioni.wav,viola,test
+"data/test/viola_solo_test_Kayser Study in F Major, Op. 20, No. 1 - Viola.wav",viola,test
+data/test/viola_solo_test_12 Etudes for Viola No. 4_ Allegro.wav,viola,test
+data/test/viola_solo_test_12 Etudes for Viola No. 6_ Andante (Lento).wav,viola,test
+data/test/viola_solo_test_12 Etudes for Viola No. 10_ Allegro.wav,viola,test
+data/test/viola_solo_test_12 Etudes for Viola No. 3_ Allegretto (molto moderato).wav,viola,test
+data/test/viola_solo_test_Caprice No. 23.wav,viola,test
