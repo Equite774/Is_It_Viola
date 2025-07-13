@@ -9,7 +9,7 @@ import torch
 import torchaudio
 
 SAMPLE_RATE = 44100
-SECONDS = 10
+SECONDS = 2
 
 df = pd.read_csv('metadata.csv')
 data = pd.DataFrame(columns=['song', 'chunk', 'start', 'instrument', 'set'])
@@ -30,7 +30,7 @@ def data_from_file(data, song):
     audio_data = load_audio(song['filename'])
     num_samples = len(audio_data)
     leftover = num_samples % SAMPLE_RATE
-    for i in range(0, (num_samples - leftover) - 10 * SAMPLE_RATE, 5 * SAMPLE_RATE):
+    for i in range(0, (num_samples - leftover) - 10 * SAMPLE_RATE, SECONDS * SAMPLE_RATE):
         if i + SECONDS * SAMPLE_RATE < num_samples:
             add_chunk(data, i, song)
 
