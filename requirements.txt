@@ -21,3 +21,7 @@ seaborn>=0.13.0
 # Optional but helpful
 jupyterlab>=4.0.7
 ipython>=8.18.0
+
+# SWE
+streamlit>=1.20.0
+fastapi>=0.95.0
