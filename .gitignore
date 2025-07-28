@@ -133,7 +133,11 @@ env.bak/
 venv.bak/
 
 # Data
-data/
+data/train/
+data/test/
+
+# Models
+*.pth
 
 # Spyder project settings
 .spyderproject
