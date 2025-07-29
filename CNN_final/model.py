@@ -91,3 +91,34 @@ def load_model():
     new_state_dict = {k.replace("module.", ""): v for k, v in state_dict.items()}
     model.load_state_dict(new_state_dict)
     return model
+
+def predict_spectrogram(model, audio_array):
+    """
+    Predict the class of the audio sample using the trained model.
+    Parameters:
+    model (ViolinViolaCNN): The trained model.
+    audio_array (np.ndarray): The mel spectrogram as a numpy array.
+    Returns:
+    np.ndarray: Predicted probabilities for each class.
+    """
+    model.eval()
+    with torch.no_grad():
+        audio_tensor = torch.tensor(audio_array).unsqueeze(0).unsqueeze(0)  # Add batch and channel dimensions
+        input_tensor = transform(audio_tensor.float())
+        output = model(input_tensor, None)
+        return output.softmax(dim=1).cpu().numpy()
+
+def make_prediction(model, audio_list):
+    """
+    Predict the class of the audio samples using the trained model.
+    Parameters:
+    model (ViolinViolaCNN): The trained model.
+    audio_list (list): List of mel spectrograms as numpy arrays.
+    Returns:
+    List: Predicted probabilities for each class.
+    """
+    probs_list = [predict_spectrogram(model, audio_array) for audio_array in audio_list]
+    probs = np.mean(probs_list, axis=0).flatten()
+    probs = probs.tolist()  # Convert to list for JSON serialization
+    probs_percent = [round(p * 100, 2) for p in probs]  # Convert to percentage
+    return probs_percent  # Return percentage list
