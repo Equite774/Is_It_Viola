@@ -135,7 +135,8 @@ venv.bak/
 # Data
 data/train/
 data/test/
-**/*.npy
+CNN/train/
+CNN/test/
 
 # Models
 *.pth
